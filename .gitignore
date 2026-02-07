@@ -1,0 +1,17 @@
+*.out
+.unity_assignment
+.venv_unity_assignment
+# Python
+*.pyc
+__pycache__/
+venv/
+*.env
+
+# IDE
+.vscode/
+.idea/
+
+# Build files
+build/
+dist/
+*.egg-info/

@@ -1,5 +1,5 @@
 # Spring 2026 UMass COMPSCI 698DS: Homework 1
-This assignment is designed to familiarize you with the shared Unity cluster, which is the first step in your journey to a successful project.  
+This assignment is designed to familiarize you with the shared Unity cluster, which is the first step in your journey to a successful project.
 Knowledge of proper usage and etiquette is important for avoiding actions that interfere with other cluster users.
 
 Please carefully read the following instructions and the linked documentation. Happy 698DS!
